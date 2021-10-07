@@ -4,7 +4,7 @@ Python made English Dictionary.
 
 ## Use Case:
 
-#### You can fetch a word and its meaning using this. It also finds the closest match for a given incorrect input and asks the user to confirm it. It also has a input test case feature to it.
+#### You can fetch a word and its meaning using this. It also finds the closest match for a given incorrect input and asks the user to confirm it. Moreover, it has an input test case feature to it.
 
 ## Demo:
 
